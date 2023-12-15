@@ -9,7 +9,3 @@ export default class Validator {
     }
   }
   
-// const val = new Validator("CyberPunk_2077").validateUsername();
-// console.log(val);
-  
-  
